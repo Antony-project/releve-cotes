@@ -1,0 +1,37 @@
+name: Relevé des cotes
+
+on:
+  schedule:
+    # Heures UTC. Paris = UTC+1 en hiver (UTC+2 en été).
+    # 7 h 10 et 18 h 10 UTC : juste avant les passages de la tâche de Claude (8 h 43 et 19 h 43 à Paris l'hiver).
+    # 12 h 10 UTC : relevé de mi-journée, pour avoir une cote proche du début des matchs (CLV).
+    - cron: "10 7,12,18 * * *"
+  workflow_dispatch: {}   # bouton « Run workflow » pour lancer un relevé à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: releve-cotes
+  cancel-in-progress: false
+
+jobs:
+  releve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Relever les cotes
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/fetch_odds.py
+      - name: Enregistrer dans le dépôt
+        if: always()
+        run: |
+          git config user.name "releve-cotes"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Relevé des cotes $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
