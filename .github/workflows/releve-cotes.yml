@@ -3,9 +3,10 @@ name: Relevé des cotes
 on:
   schedule:
     # Heures UTC. Paris = UTC+1 en hiver (UTC+2 en été).
-    # 7 h 10 et 18 h 10 UTC : juste avant les passages de la tâche de Claude (8 h 43 et 19 h 43 à Paris l'hiver).
-    # 12 h 10 UTC : relevé de mi-journée, pour avoir une cote proche du début des matchs (CLV).
-    - cron: "10 7,12,18 * * *"
+    # GitHub lance souvent les tâches programmées avec 30 à 60 min de retard : on vise large.
+    # 5 h 37 et 16 h 37 UTC (6 h 37 et 17 h 37 à Paris l'hiver) : avant les passages de la tâche de Claude (8 h 43 et 19 h 43).
+    # 11 h 37 UTC : relevé de mi-journée, pour avoir une cote proche du début des matchs (CLV).
+    - cron: "37 5,11,16 * * *"
   workflow_dispatch: {}   # bouton « Run workflow » pour lancer un relevé à la main
 
 permissions:

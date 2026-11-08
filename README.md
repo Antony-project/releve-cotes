@@ -1,6 +1,6 @@
 # Relevé des cotes — simulateur « Toi contre Claude »
 
-Ce dépôt relève automatiquement, trois fois par jour, les cotes « vainqueur du match » de
+Ce dépôt relève automatiquement, trois fois par jour (vers 6 h 40, 12 h 40 et 17 h 40 à Paris l'hiver, souvent avec un peu de retard), les cotes « vainqueur du match » de
 **Betclic**, Pinnacle, Unibet et Winamax via [The Odds API](https://the-odds-api.com), pour le
 tennis masculin (Grands Chelems, Masters 1000, ATP 500) et le MMA (UFC).
 
