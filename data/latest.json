@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-13T17:24:19Z",
+ "fetched_at": "2026-11-14T06:20:00Z",
  "sports": [
   "mma_mixed_martial_arts",
   "tennis_atp_finals"
@@ -11,94 +11,6 @@
   "winamax_fr"
  ],
  "events": [
-  {
-   "id": "3e1963806806f032f81e92b8b7c38d58",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-13T22:00:00Z",
-   "players": [
-    "Joao Paulo Silva",
-    "Gabriel Vinicius"
-   ],
-   "books": {}
-  },
-  {
-   "id": "14ddbb3724d3d53dde90bb3b2dd7c9c0",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-13T22:00:00Z",
-   "players": [
-    "Natalia Alves",
-    "Raiane Vinuto"
-   ],
-   "books": {}
-  },
-  {
-   "id": "48c28898c0c438cfd658741d04098b6c",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Neiman Gracie",
-    "Arman Tsarukyan"
-   ],
-   "books": {}
-  },
-  {
-   "id": "d77da6020ae89eb258b5366f6b0fade6",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Chris Weidman",
-    "Khamzat Chimaev"
-   ],
-   "books": {}
-  },
-  {
-   "id": "9b45f739ae1b776c57c74632091bb5dd",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Julianna Pena",
-    "Diana Avsaragova"
-   ],
-   "books": {}
-  },
-  {
-   "id": "8b77766a72f3e4ed198e48f28241dcc3",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Giga Chikadze",
-    "Zabit Magomedsharipov"
-   ],
-   "books": {}
-  },
-  {
-   "id": "db43797045559a5e7615412b8a06dda0",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Marlon Moraes",
-    "Merab Dvalishvili"
-   ],
-   "books": {}
-  },
-  {
-   "id": "530ddc899fe11623e38fd57cf7e80a50",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T11:00:00Z",
-   "players": [
-    "Urijah Faber",
-    "Umar Nurmagomedov"
-   ],
-   "books": {}
-  },
   {
    "id": "d389c23c64e3ea487a773c4fd36b6374",
    "sport_key": "mma_mixed_martial_arts",
@@ -200,21 +112,21 @@
     "winamax_fr": {
      "prices": {
       "Lewis McGrillen": 1.21,
-      "Nawras Abzakh": 3.15
+      "Nawras Abzakh": 3.25
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
       "Lewis McGrillen": 1.16,
       "Nawras Abzakh": 2.9
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Lewis McGrillen": 0.7184,
-    "Nawras Abzakh": 0.2816
+    "Lewis McGrillen": 0.7215,
+    "Nawras Abzakh": 0.2785
    }
   },
   {
@@ -230,21 +142,21 @@
     "winamax_fr": {
      "prices": {
       "Oleg Popov": 2.65,
-      "Pouya Rahmani": 1.3
+      "Pouya Rahmani": 1.32
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
       "Oleg Popov": 2.45,
-      "Pouya Rahmani": 1.24
+      "Pouya Rahmani": 1.25
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Pouya Rahmani": 0.6675,
-    "Oleg Popov": 0.3326
+    "Pouya Rahmani": 0.6648,
+    "Oleg Popov": 0.3352
    }
   },
   {
@@ -260,21 +172,21 @@
     "winamax_fr": {
      "prices": {
       "Omar El Dafrawy": 3.85,
-      "Patrick Habirora": 1.13
+      "Patrick Habirora": 1.14
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
-      "Omar El Dafrawy": 3.55,
-      "Patrick Habirora": 1.08
+      "Omar El Dafrawy": 3.35,
+      "Patrick Habirora": 1.1
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Patrick Habirora": 0.7699,
-    "Omar El Dafrawy": 0.2301
+    "Patrick Habirora": 0.7621,
+    "Omar El Dafrawy": 0.2379
    }
   },
   {
@@ -289,22 +201,33 @@
    "books": {
     "unibet_fr": {
      "prices": {
-      "Sergey Bilostenniy": 3.0,
+      "Sergey Bilostenniy": 3.05,
       "Vadim Nemkov": 1.14
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Vadim Nemkov": 0.7246,
-    "Sergey Bilostenniy": 0.2754
+    "Vadim Nemkov": 0.7279,
+    "Sergey Bilostenniy": 0.2721
    }
+  },
+  {
+   "id": "728700fb7a75f53a5af3841b5ced3507",
+   "sport_key": "mma_mixed_martial_arts",
+   "sport_title": "MMA",
+   "commence_time": "2026-11-14T19:00:00Z",
+   "players": [
+    "Nik Bagley",
+    "Bruno Souza"
+   ],
+   "books": {}
   },
   {
    "id": "76d75d2e4bd838e60e5dd9487006f236",
    "sport_key": "mma_mixed_martial_arts",
    "sport_title": "MMA",
-   "commence_time": "2026-11-14T20:10:00Z",
+   "commence_time": "2026-11-14T19:00:00Z",
    "players": [
     "Ollie Sarwa",
     "Ieuan Mackenzie"
@@ -315,7 +238,7 @@
    "id": "99102e8e34608e3aa99ca1a89fdcc1f4",
    "sport_key": "mma_mixed_martial_arts",
    "sport_title": "MMA",
-   "commence_time": "2026-11-14T20:35:00Z",
+   "commence_time": "2026-11-14T19:00:00Z",
    "players": [
     "Steven Hill",
     "Sado Ucar"
@@ -326,7 +249,7 @@
    "id": "e1bffd485480b8b2794ae615bd3b7f3d",
    "sport_key": "mma_mixed_martial_arts",
    "sport_title": "MMA",
-   "commence_time": "2026-11-14T21:25:00Z",
+   "commence_time": "2026-11-14T19:00:00Z",
    "players": [
     "Tariq Pell",
     "Wellington Lopes"
@@ -348,7 +271,7 @@
       "Heili Alateng": 4.19,
       "Juan Diaz": 1.25
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
@@ -359,17 +282,6 @@
     "Heili Alateng": 0.2298,
     "Juan Diaz": 0.7702
    }
-  },
-  {
-   "id": "728700fb7a75f53a5af3841b5ced3507",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-14T22:15:00Z",
-   "players": [
-    "Nik Bagley",
-    "Bruno Souza"
-   ],
-   "books": {}
   },
   {
    "id": "9a0b4ba5ef850cf840159a9559211367",
@@ -383,19 +295,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Evan Elder": 1.99,
-      "Samuel Sanches": 1.87
+      "Evan Elder": 2.01,
+      "Samuel Sanches": 1.85
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Evan Elder": 0.4845,
-    "Samuel Sanches": 0.5155
+    "Evan Elder": 0.4793,
+    "Samuel Sanches": 0.5207
    },
    "consensus_fair": {
-    "Evan Elder": 0.4845,
-    "Samuel Sanches": 0.5155
+    "Evan Elder": 0.4793,
+    "Samuel Sanches": 0.5207
    }
   },
   {
@@ -410,19 +322,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Beatriz Mesquita": 1.4,
-      "Macy Chiasson": 3.09
+      "Beatriz Mesquita": 1.39,
+      "Macy Chiasson": 3.11
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Beatriz Mesquita": 0.6882,
-    "Macy Chiasson": 0.3118
+    "Beatriz Mesquita": 0.6911,
+    "Macy Chiasson": 0.3089
    },
    "consensus_fair": {
-    "Macy Chiasson": 0.3118,
-    "Beatriz Mesquita": 0.6882
+    "Macy Chiasson": 0.3089,
+    "Beatriz Mesquita": 0.6911
    }
   },
   {
@@ -437,19 +349,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Jared Gordon": 4.02,
-      "Melquizael Costa": 1.27
+      "Jared Gordon": 4.21,
+      "Melquizael Costa": 1.25
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Jared Gordon": 0.2401,
-    "Melquizael Costa": 0.7599
+    "Jared Gordon": 0.2289,
+    "Melquizael Costa": 0.7711
    },
    "consensus_fair": {
-    "Jared Gordon": 0.2401,
-    "Melquizael Costa": 0.7599
+    "Jared Gordon": 0.2289,
+    "Melquizael Costa": 0.7711
    }
   },
   {
@@ -467,7 +379,7 @@
       "Cesar Almeida": 2.57,
       "Donte Johnson": 1.54
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
@@ -491,19 +403,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Jim Miller": 2.73,
+      "Jim Miller": 2.74,
       "Terrance Mckinney": 1.49
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Jim Miller": 0.3531,
-    "Terrance Mckinney": 0.6469
+    "Jim Miller": 0.3522,
+    "Terrance Mckinney": 0.6478
    },
    "consensus_fair": {
-    "Jim Miller": 0.3531,
-    "Terrance Mckinney": 0.6469
+    "Jim Miller": 0.3522,
+    "Terrance Mckinney": 0.6478
    }
   },
   {
@@ -518,19 +430,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Chris Duncan": 1.57,
-      "Drew Dober": 2.49
+      "Chris Duncan": 1.55,
+      "Drew Dober": 2.54
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Chris Duncan": 0.6133,
-    "Drew Dober": 0.3867
+    "Chris Duncan": 0.621,
+    "Drew Dober": 0.379
    },
    "consensus_fair": {
-    "Drew Dober": 0.3867,
-    "Chris Duncan": 0.6133
+    "Drew Dober": 0.379,
+    "Chris Duncan": 0.621
    }
   },
   {
@@ -545,19 +457,19 @@
    "books": {
     "pinnacle": {
      "prices": {
-      "Charlie Radtke": 2.16,
-      "Stephen Thompson": 1.74
+      "Charlie Radtke": 2.14,
+      "Stephen Thompson": 1.75
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
-    "Charlie Radtke": 0.4462,
-    "Stephen Thompson": 0.5538
+    "Charlie Radtke": 0.4499,
+    "Stephen Thompson": 0.5501
    },
    "consensus_fair": {
-    "Stephen Thompson": 0.5538,
-    "Charlie Radtke": 0.4462
+    "Stephen Thompson": 0.5501,
+    "Charlie Radtke": 0.4499
    }
   },
   {
@@ -575,37 +487,37 @@
       "Bilal Hasan": 1.05,
       "Luis Gurule": 7.75
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Bilal Hasan": 1.06,
       "Luis Gurule": 6.0
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "pinnacle": {
      "prices": {
-      "Bilal Hasan": 1.11,
-      "Luis Gurule": 7.22
+      "Bilal Hasan": 1.09,
+      "Luis Gurule": 8.06
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     },
     "unibet_fr": {
      "prices": {
       "Bilal Hasan": 1.04,
-      "Luis Gurule": 4.1
+      "Luis Gurule": 4.05
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "pinnacle_fair": {
-    "Bilal Hasan": 0.8667,
-    "Luis Gurule": 0.1333
+    "Bilal Hasan": 0.8809,
+    "Luis Gurule": 0.1191
    },
    "consensus_fair": {
-    "Luis Gurule": 0.1512,
-    "Bilal Hasan": 0.8488
+    "Luis Gurule": 0.1482,
+    "Bilal Hasan": 0.8518
    }
   },
   {
@@ -620,40 +532,40 @@
    "books": {
     "betclic_fr": {
      "prices": {
-      "Kevin Holland": 2.4,
-      "Uros Medic": 1.5
+      "Kevin Holland": 2.28,
+      "Uros Medic": 1.56
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
-      "Kevin Holland": 2.2,
-      "Uros Medic": 1.54
+      "Kevin Holland": 2.15,
+      "Uros Medic": 1.56
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "pinnacle": {
      "prices": {
-      "Kevin Holland": 2.34,
-      "Uros Medic": 1.64
+      "Kevin Holland": 2.35,
+      "Uros Medic": 1.63
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     },
     "unibet_fr": {
      "prices": {
-      "Kevin Holland": 2.05,
-      "Uros Medic": 1.39
+      "Kevin Holland": 1.98,
+      "Uros Medic": 1.42
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "pinnacle_fair": {
-    "Kevin Holland": 0.4121,
-    "Uros Medic": 0.5879
+    "Kevin Holland": 0.4095,
+    "Uros Medic": 0.5905
    },
    "consensus_fair": {
-    "Uros Medic": 0.5968,
-    "Kevin Holland": 0.4032
+    "Uros Medic": 0.5866,
+    "Kevin Holland": 0.4135
    }
   },
   {
@@ -671,28 +583,28 @@
       "Caio Borralho": 1.41,
       "Yousri Belgaroui": 2.0
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     },
     "betclic_fr": {
      "prices": {
       "Caio Borralho": 1.55,
       "Yousri Belgaroui": 2.3
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Caio Borralho": 1.54,
       "Yousri Belgaroui": 2.2
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "pinnacle": {
      "prices": {
       "Caio Borralho": 1.64,
       "Yousri Belgaroui": 2.34
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     }
    },
    "pinnacle_fair": {
@@ -719,37 +631,37 @@
       "Amanda Nunes": 2.3,
       "Kayla Harrison": 1.54
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "pinnacle": {
      "prices": {
-      "Amanda Nunes": 2.42,
-      "Kayla Harrison": 1.6
+      "Amanda Nunes": 2.41,
+      "Kayla Harrison": 1.62
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     },
     "winamax_fr": {
      "prices": {
-      "Amanda Nunes": 2.25,
+      "Amanda Nunes": 2.2,
       "Kayla Harrison": 1.52
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
-      "Amanda Nunes": 1.85,
-      "Kayla Harrison": 1.49
+      "Amanda Nunes": 1.84,
+      "Kayla Harrison": 1.5
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "pinnacle_fair": {
-    "Amanda Nunes": 0.398,
-    "Kayla Harrison": 0.602
+    "Amanda Nunes": 0.402,
+    "Kayla Harrison": 0.598
    },
    "consensus_fair": {
-    "Kayla Harrison": 0.5879,
-    "Amanda Nunes": 0.4121
+    "Kayla Harrison": 0.5848,
+    "Amanda Nunes": 0.4152
    }
   },
   {
@@ -764,118 +676,41 @@
    "books": {
     "betclic_fr": {
      "prices": {
-      "Ciryl Gane": 1.45,
-      "Josh Hokit": 2.55
+      "Ciryl Gane": 1.42,
+      "Josh Hokit": 2.7
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "pinnacle": {
      "prices": {
       "Ciryl Gane": 1.48,
-      "Josh Hokit": 2.75
+      "Josh Hokit": 2.8
      },
-     "last_update": "2026-11-13T17:23:45Z"
+     "last_update": "2026-11-14T06:19:36Z"
     },
     "winamax_fr": {
      "prices": {
       "Ciryl Gane": 1.4,
       "Josh Hokit": 2.65
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
-      "Ciryl Gane": 1.42,
-      "Josh Hokit": 2.65
+      "Ciryl Gane": 1.4,
+      "Josh Hokit": 2.8
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "pinnacle_fair": {
-    "Ciryl Gane": 0.6501,
-    "Josh Hokit": 0.3499
+    "Ciryl Gane": 0.6542,
+    "Josh Hokit": 0.3458
    },
    "consensus_fair": {
-    "Ciryl Gane": 0.6482,
-    "Josh Hokit": 0.3518
+    "Ciryl Gane": 0.6576,
+    "Josh Hokit": 0.3424
    }
-  },
-  {
-   "id": "e534ad040ef8bdb205bd68ad709379f0",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T11:00:00Z",
-   "players": [
-    "Igor Michaliszyn",
-    "Tomasz Romanowski"
-   ],
-   "books": {}
-  },
-  {
-   "id": "a1e10dd4d199dba4bacdf001b31639fe",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T11:00:00Z",
-   "players": [
-    "Mateusz Pawlik",
-    "Madars Fleminas"
-   ],
-   "books": {}
-  },
-  {
-   "id": "ac3f74fb6ab73d7bd7294770e491de69",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T11:00:00Z",
-   "players": [
-    "Marcin Held",
-    "Valeriu Mircea"
-   ],
-   "books": {}
-  },
-  {
-   "id": "fa85486095e7772788cc02d860f2cf9c",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T11:00:00Z",
-   "players": [
-    "Steven Krt",
-    "Oskar Szczepaniak"
-   ],
-   "books": {}
-  },
-  {
-   "id": "bf4d3ca9cd3ce24b64e1493c5ccb89d2",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T11:00:00Z",
-   "players": [
-    "Sasha Moisa",
-    "Wojciech Kawa"
-   ],
-   "books": {}
-  },
-  {
-   "id": "6571e7bc729a887110c0869b14c3582c",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Aleksandre Topuria",
-    "Santiago Luna"
-   ],
-   "books": {}
-  },
-  {
-   "id": "9f892e21a835452335eba01effd8a393",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Amir Albazi",
-    "Alessandro Costa"
-   ],
-   "books": {}
   },
   {
    "id": "ca5d034598b83c81aa267bea9b3334a4",
@@ -889,149 +724,30 @@
    "books": {
     "winamax_fr": {
      "prices": {
-      "Aljamain Sterling": 1.98,
-      "Kevin Vallejos": 1.72
+      "Aljamain Sterling": 1.9,
+      "Kevin Vallejos": 1.8
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "betclic_fr": {
      "prices": {
       "Aljamain Sterling": 2.0,
       "Kevin Vallejos": 1.73
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "unibet_fr": {
      "prices": {
-      "Aljamain Sterling": 1.94,
-      "Kevin Vallejos": 1.65
+      "Aljamain Sterling": 1.86,
+      "Kevin Vallejos": 1.72
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Aljamain Sterling": 0.4628,
-    "Kevin Vallejos": 0.5372
+    "Aljamain Sterling": 0.4769,
+    "Kevin Vallejos": 0.5231
    }
-  },
-  {
-   "id": "0b6d5a32985b31eda832be4154e10fe5",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Kyoji Horiguchi",
-    "Asu Almabaev"
-   ],
-   "books": {
-    "betclic_fr": {
-     "prices": {
-      "Asu Almabaev": 2.58,
-      "Kyoji Horiguchi": 1.44
-     },
-     "last_update": "2026-11-13T17:24:18Z"
-    }
-   },
-   "consensus_fair": {
-    "Kyoji Horiguchi": 0.6418,
-    "Asu Almabaev": 0.3582
-   }
-  },
-  {
-   "id": "d55740629555c012eedd01b8f75d3b69",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Daniel Hooker",
-    "Brian Ortega"
-   ],
-   "books": {
-    "winamax_fr": {
-     "prices": {
-      "Brian Ortega": 2.15,
-      "Daniel Hooker": 1.52
-     },
-     "last_update": "2026-11-13T17:23:29Z"
-    },
-    "betclic_fr": {
-     "prices": {
-      "Brian Ortega": 2.25,
-      "Daniel Hooker": 1.57
-     },
-     "last_update": "2026-11-13T17:24:18Z"
-    },
-    "unibet_fr": {
-     "prices": {
-      "Brian Ortega": 2.2,
-      "Daniel Hooker": 1.51
-     },
-     "last_update": "2026-11-13T17:23:26Z"
-    }
-   },
-   "consensus_fair": {
-    "Daniel Hooker": 0.5893,
-    "Brian Ortega": 0.4107
-   }
-  },
-  {
-   "id": "48c97941350cd548c5a6667dc0018546",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Nikolas Motta",
-    "Dom Mar Fan"
-   ],
-   "books": {}
-  },
-  {
-   "id": "8f01dcdee59eec582ccf12e049833989",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Jared Cannonier",
-    "Ikram Aliskerov"
-   ],
-   "books": {
-    "winamax_fr": {
-     "prices": {
-      "Ikram Aliskerov": 1.23,
-      "Jared Cannonier": 3.3
-     },
-     "last_update": "2026-11-13T17:23:29Z"
-    },
-    "betclic_fr": {
-     "prices": {
-      "Ikram Aliskerov": 1.24,
-      "Jared Cannonier": 3.7
-     },
-     "last_update": "2026-11-13T17:24:18Z"
-    },
-    "unibet_fr": {
-     "prices": {
-      "Ikram Aliskerov": 1.22,
-      "Jared Cannonier": 3.35
-     },
-     "last_update": "2026-11-13T17:23:26Z"
-    }
-   },
-   "consensus_fair": {
-    "Jared Cannonier": 0.2632,
-    "Ikram Aliskerov": 0.7368
-   }
-  },
-  {
-   "id": "f489c8a46fa7baeab80d1bace1b0f067",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Jake Matthews",
-    "Tahir Abdullayev"
-   ],
-   "books": {}
   },
   {
    "id": "981c56f62e02e086779c0b14c97afcf9",
@@ -1048,38 +764,27 @@
       "Jiri Prochazka": 2.15,
       "Navajo Stirling": 1.64
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Jiri Prochazka": 1.95,
       "Navajo Stirling": 1.6
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
-      "Jiri Prochazka": 2.1,
-      "Navajo Stirling": 1.54
+      "Jiri Prochazka": 2.0,
+      "Navajo Stirling": 1.6
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Jiri Prochazka": 0.4355,
-    "Navajo Stirling": 0.5645
+    "Jiri Prochazka": 0.4426,
+    "Navajo Stirling": 0.5574
    }
-  },
-  {
-   "id": "e0fe6ef8d4d50031f2ff78a26b9b6945",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2026-11-21T17:00:00Z",
-   "players": [
-    "Shamil Gaziev",
-    "Tallison Teixeira"
-   ],
-   "books": {}
   },
   {
    "id": "456bfad38cecf187ca1851aa801a2d9f",
@@ -1096,14 +801,14 @@
       "Ian Garry": 1.54,
       "Yaroslav Amosov": 2.3
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Ian Garry": 1.5,
       "Yaroslav Amosov": 2.25
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     }
    },
    "consensus_fair": {
@@ -1126,14 +831,14 @@
       "Israel Adesanya": 1.61,
       "Shara Magomedov": 2.2
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Israel Adesanya": 1.58,
       "Shara Magomedov": 2.1
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     }
    },
    "consensus_fair": {
@@ -1156,21 +861,21 @@
       "Alex Pereira": 2.5,
       "Sergey Pavlovich": 1.46
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Alex Pereira": 2.6,
       "Sergey Pavlovich": 1.43
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
       "Alex Pereira": 2.25,
       "Sergey Pavlovich": 1.31
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
@@ -1193,26 +898,26 @@
       "Charles Oliveira": 1.64,
       "Diego Lopes": 2.15
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
-      "Charles Oliveira": 1.62,
-      "Diego Lopes": 2.15
+      "Charles Oliveira": 1.64,
+      "Diego Lopes": 2.1
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     },
     "unibet_fr": {
      "prices": {
-      "Charles Oliveira": 1.45,
-      "Diego Lopes": 1.92
+      "Charles Oliveira": 1.47,
+      "Diego Lopes": 1.9
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     }
    },
    "consensus_fair": {
-    "Charles Oliveira": 0.5691,
-    "Diego Lopes": 0.4309
+    "Charles Oliveira": 0.5642,
+    "Diego Lopes": 0.4358
    }
   },
   {
@@ -1304,17 +1009,6 @@
    "books": {}
   },
   {
-   "id": "72f8e455cf7ea9870ba0a5b4efb10def",
-   "sport_key": "mma_mixed_martial_arts",
-   "sport_title": "MMA",
-   "commence_time": "2027-01-13T03:00:00Z",
-   "players": [
-    "Sergey Pavlovich",
-    "Alex Pereira"
-   ],
-   "books": {}
-  },
-  {
    "id": "17bcd84de1b1485471a9d682cfe279ed",
    "sport_key": "mma_mixed_martial_arts",
    "sport_title": "MMA",
@@ -1329,19 +1023,19 @@
       "Carlos Prates": 1.54,
       "Michael Morales": 2.35
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
-      "Carlos Prates": 1.54,
-      "Michael Morales": 2.25
+      "Carlos Prates": 1.52,
+      "Michael Morales": 2.3
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     }
    },
    "consensus_fair": {
-    "Carlos Prates": 0.5989,
-    "Michael Morales": 0.4011
+    "Carlos Prates": 0.6031,
+    "Michael Morales": 0.3969
    }
   },
   {
@@ -1359,26 +1053,26 @@
       "Joshua Van": 1.69,
       "Manel Kape": 2.05
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "unibet_fr": {
      "prices": {
-      "Joshua Van": 1.53,
-      "Manel Kape": 1.79
+      "Joshua Van": 1.56,
+      "Manel Kape": 1.76
      },
-     "last_update": "2026-11-13T17:23:26Z"
+     "last_update": "2026-11-14T06:19:51Z"
     },
     "winamax_fr": {
      "prices": {
-      "Joshua Van": 1.72,
-      "Manel Kape": 1.98
+      "Joshua Van": 1.76,
+      "Manel Kape": 1.94
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     }
    },
    "consensus_fair": {
-    "Joshua Van": 0.5408,
-    "Manel Kape": 0.4592
+    "Joshua Van": 0.5342,
+    "Manel Kape": 0.4658
    }
   },
   {
@@ -1396,14 +1090,14 @@
       "Benoit Saint-Denis": 2.68,
       "Quillan Salkilld": 1.41
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     },
     "winamax_fr": {
      "prices": {
       "Benoit Saint-Denis": 2.4,
       "Quillan Salkilld": 1.45
      },
-     "last_update": "2026-11-13T17:23:29Z"
+     "last_update": "2026-11-14T06:19:20Z"
     }
    },
    "consensus_fair": {
@@ -1426,7 +1120,7 @@
       "Bogdan Guskov": 2.15,
       "Robert Whittaker": 1.64
      },
-     "last_update": "2026-11-13T17:24:18Z"
+     "last_update": "2026-11-14T06:18:35Z"
     }
    },
    "consensus_fair": {
@@ -1567,15 +1261,26 @@
    "books": {
     "unibet_fr": {
      "prices": {
-      "Alexander Zverev": 1.34,
-      "Rafael Jodar": 2.55
+      "Alexander Zverev": 1.33,
+      "Rafael Jodar": 2.6
      },
-     "last_update": "2026-11-13T17:24:03Z"
+     "last_update": "2026-11-14T06:19:49Z"
+    },
+    "pinnacle": {
+     "prices": {
+      "Alexander Zverev": 1.44,
+      "Rafael Jodar": 2.99
+     },
+     "last_update": "2026-11-14T06:19:32Z"
     }
    },
+   "pinnacle_fair": {
+    "Alexander Zverev": 0.6749,
+    "Rafael Jodar": 0.3251
+   },
    "consensus_fair": {
-    "Alexander Zverev": 0.6555,
-    "Rafael Jodar": 0.3445
+    "Alexander Zverev": 0.6683,
+    "Rafael Jodar": 0.3317
    }
   },
   {
@@ -1593,12 +1298,23 @@
       "Arthur Fils": 2.2,
       "Ben Shelton": 1.45
      },
-     "last_update": "2026-11-13T17:24:03Z"
+     "last_update": "2026-11-14T06:19:49Z"
+    },
+    "pinnacle": {
+     "prices": {
+      "Arthur Fils": 2.52,
+      "Ben Shelton": 1.58
+     },
+     "last_update": "2026-11-14T06:19:32Z"
     }
    },
+   "pinnacle_fair": {
+    "Arthur Fils": 0.3854,
+    "Ben Shelton": 0.6146
+   },
    "consensus_fair": {
-    "Ben Shelton": 0.6027,
-    "Arthur Fils": 0.3973
+    "Ben Shelton": 0.6087,
+    "Arthur Fils": 0.3913
    }
   },
   {
@@ -1616,7 +1332,7 @@
       "Carlos Alcaraz": 1.07,
       "Frances Tiafoe": 4.95
      },
-     "last_update": "2026-11-13T17:24:03Z"
+     "last_update": "2026-11-14T06:19:49Z"
     }
    },
    "consensus_fair": {
@@ -1636,15 +1352,15 @@
    "books": {
     "unibet_fr": {
      "prices": {
-      "Daniil Medvedev": 1.16,
-      "Flavio Cobolli": 3.65
+      "Daniil Medvedev": 1.14,
+      "Flavio Cobolli": 3.8
      },
-     "last_update": "2026-11-13T17:24:03Z"
+     "last_update": "2026-11-14T06:19:49Z"
     }
    },
    "consensus_fair": {
-    "Daniil Medvedev": 0.7588,
-    "Flavio Cobolli": 0.2412
+    "Daniil Medvedev": 0.7692,
+    "Flavio Cobolli": 0.2308
    }
   }
  ]
