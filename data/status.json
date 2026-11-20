@@ -1,11 +1,11 @@
 {
- "run_at": "2026-11-20T14:17:41Z",
+ "run_at": "2026-11-20T22:46:42Z",
  "sports": [
   "mma_mixed_martial_arts",
   "tennis_atp_finals"
  ],
- "events": 60,
- "credits_remaining": "445",
- "credits_used": "55",
+ "events": 58,
+ "credits_remaining": "443",
+ "credits_used": "57",
  "errors": []
 }
