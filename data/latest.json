@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T21:49:49Z",
+ "fetched_at": "2026-11-22T13:32:17Z",
  "sports": [
   "mma_mixed_martial_arts",
   "tennis_atp_finals"
@@ -26,26 +26,26 @@
       "Ian Garry": 1.48,
       "Yaroslav Amosov": 2.48
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
-      "Ian Garry": 1.46,
+      "Ian Garry": 1.47,
       "Yaroslav Amosov": 2.3
      },
-     "last_update": "2026-11-21T21:49:45Z"
+     "last_update": "2026-11-22T13:31:33Z"
     },
     "unibet_fr": {
      "prices": {
-      "Ian Garry": 1.35,
-      "Yaroslav Amosov": 2.15
+      "Ian Garry": 1.36,
+      "Yaroslav Amosov": 2.1
      },
-     "last_update": "2026-11-21T21:49:02Z"
+     "last_update": "2026-11-22T13:31:32Z"
     }
    },
    "consensus_fair": {
-    "Ian Garry": 0.6174,
-    "Yaroslav Amosov": 0.3826
+    "Ian Garry": 0.6144,
+    "Yaroslav Amosov": 0.3856
    }
   },
   {
@@ -63,19 +63,19 @@
       "Israel Adesanya": 1.54,
       "Shara Magomedov": 2.3
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
-      "Israel Adesanya": 1.52,
-      "Shara Magomedov": 2.25
+      "Israel Adesanya": 1.58,
+      "Shara Magomedov": 2.1
      },
-     "last_update": "2026-11-21T21:49:45Z"
+     "last_update": "2026-11-22T13:31:33Z"
     }
    },
    "consensus_fair": {
-    "Israel Adesanya": 0.5979,
-    "Shara Magomedov": 0.4021
+    "Israel Adesanya": 0.5848,
+    "Shara Magomedov": 0.4152
    }
   },
   {
@@ -93,21 +93,21 @@
       "Alex Pereira": 2.5,
       "Sergey Pavlovich": 1.46
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
       "Alex Pereira": 2.6,
       "Sergey Pavlovich": 1.43
      },
-     "last_update": "2026-11-21T21:49:44Z"
+     "last_update": "2026-11-22T13:31:33Z"
     },
     "unibet_fr": {
      "prices": {
       "Alex Pereira": 2.25,
       "Sergey Pavlovich": 1.31
      },
-     "last_update": "2026-11-21T21:49:02Z"
+     "last_update": "2026-11-22T13:31:32Z"
     }
    },
    "consensus_fair": {
@@ -130,21 +130,21 @@
       "Charles Oliveira": 1.64,
       "Diego Lopes": 2.15
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
       "Charles Oliveira": 1.6,
       "Diego Lopes": 2.15
      },
-     "last_update": "2026-11-21T21:49:44Z"
+     "last_update": "2026-11-22T13:31:33Z"
     },
     "unibet_fr": {
      "prices": {
       "Charles Oliveira": 1.44,
       "Diego Lopes": 1.93
      },
-     "last_update": "2026-11-21T21:49:02Z"
+     "last_update": "2026-11-22T13:31:32Z"
     }
    },
    "consensus_fair": {
@@ -266,14 +266,14 @@
       "Carlos Prates": 1.54,
       "Michael Morales": 2.35
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
       "Carlos Prates": 1.48,
       "Michael Morales": 2.45
      },
-     "last_update": "2026-11-21T21:49:45Z"
+     "last_update": "2026-11-22T13:31:33Z"
     }
    },
    "consensus_fair": {
@@ -296,21 +296,21 @@
       "Joshua Van": 1.73,
       "Manel Kape": 2.0
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "unibet_fr": {
      "prices": {
       "Joshua Van": 1.52,
       "Manel Kape": 1.82
      },
-     "last_update": "2026-11-21T21:49:02Z"
+     "last_update": "2026-11-22T13:31:32Z"
     },
     "winamax_fr": {
      "prices": {
       "Joshua Van": 1.7,
       "Manel Kape": 2.0
      },
-     "last_update": "2026-11-21T21:49:44Z"
+     "last_update": "2026-11-22T13:31:33Z"
     }
    },
    "consensus_fair": {
@@ -333,7 +333,7 @@
       "Bogdan Guskov": 2.15,
       "Robert Whittaker": 1.64
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     }
    },
    "consensus_fair": {
@@ -356,21 +356,21 @@
       "Benoit Saint-Denis": 3.12,
       "Quillan Salkilld": 1.31
      },
-     "last_update": "2026-11-21T21:48:57Z"
+     "last_update": "2026-11-22T13:30:55Z"
     },
     "winamax_fr": {
      "prices": {
       "Benoit Saint-Denis": 2.4,
       "Quillan Salkilld": 1.45
      },
-     "last_update": "2026-11-21T21:49:45Z"
+     "last_update": "2026-11-22T13:31:33Z"
     },
     "unibet_fr": {
      "prices": {
       "Benoit Saint-Denis": 2.85,
       "Quillan Salkilld": 1.17
      },
-     "last_update": "2026-11-21T21:49:02Z"
+     "last_update": "2026-11-22T13:31:32Z"
     }
    },
    "consensus_fair": {
@@ -555,29 +555,40 @@
    "books": {
     "unibet_fr": {
      "prices": {
-      "Alexander Zverev": 2.75,
-      "Carlos Alcaraz": 1.34
+      "Alexander Zverev": 2.7,
+      "Carlos Alcaraz": 1.41
      },
-     "last_update": "2026-11-21T21:49:18Z"
+     "last_update": "2026-11-22T13:31:20Z"
     },
     "winamax_fr": {
      "prices": {
-      "Alexander Zverev": 2.7,
-      "Carlos Alcaraz": 1.36
+      "Alexander Zverev": 2.75,
+      "Carlos Alcaraz": 1.4
      },
-     "last_update": "2026-11-21T21:49:38Z"
+     "last_update": "2026-11-22T13:31:48Z"
     },
     "betclic_fr": {
      "prices": {
-      "Alexander Zverev": 2.65,
-      "Carlos Alcaraz": 1.35
+      "Alexander Zverev": 2.7,
+      "Carlos Alcaraz": 1.41
      },
-     "last_update": "2026-11-21T21:48:39Z"
+     "last_update": "2026-11-22T13:31:55Z"
+    },
+    "pinnacle": {
+     "prices": {
+      "Alexander Zverev": 2.9,
+      "Carlos Alcaraz": 1.46
+     },
+     "last_update": "2026-11-22T13:32:15Z"
     }
    },
+   "pinnacle_fair": {
+    "Alexander Zverev": 0.3349,
+    "Carlos Alcaraz": 0.6651
+   },
    "consensus_fair": {
-    "Alexander Zverev": 0.3334,
-    "Carlos Alcaraz": 0.6666
+    "Alexander Zverev": 0.3396,
+    "Carlos Alcaraz": 0.6604
    }
   }
  ]
